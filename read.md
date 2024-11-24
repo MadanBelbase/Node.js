@@ -1,0 +1,1 @@
+single thread, light weight,low overhead and the ability to handle a large number of concurrent requests. This makes it suitable for use in web servers, network servers, and other applications where high concurrency is required.
